@@ -1,0 +1,1 @@
+Indexes folder  containing vector indexes (embeddings) for the documents
