@@ -1,0 +1,5 @@
+llama-Index
+llama-hub
+openai
+streamlit
+docx2txt
